@@ -14,7 +14,7 @@
 * 기능설명  
 
 
-  * 타이머를 설정하여 알람을 울리게 할 수 있습니다.  
+  * 타이머 기능
   
   
 <img src = "https://user-images.githubusercontent.com/82255206/233975317-f7766c88-6ed9-4639-b25c-ff04ea20f408.png" width="200" height="300"/> <img src = "https://user-images.githubusercontent.com/82255206/233975323-abffb95c-3599-41f3-b5fa-b946ed868fca.png" width="200" height="300"/>
